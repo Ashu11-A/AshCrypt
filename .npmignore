@@ -1,0 +1,15 @@
+/node_modules
+/test
+/src
+/exemple
+
+.gitignore
+.gitattributes
+
+build.ts
+bun.lock
+eslint.config.js
+
+tsconfig.json
+tsconfig.cjs.json
+tsconfig.mjs.json
