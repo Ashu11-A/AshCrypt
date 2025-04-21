@@ -10,6 +10,7 @@
 ![reposize-info](https://img.shields.io/github/languages/code-size/Ashu11-A/AshCrypt?style=for-the-badge&colorA=302D41&colorB=90dceb)
 
 ![SourceForge Languages](https://img.shields.io/github/languages/top/Ashu11-A/AshCrypt?style=for-the-badge&colorA=302D41&colorB=90dceb)
+![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/AshCrypt?style=for-the-badge&colorA=302D41&colorB=3ac97b)
 
 </div>
 
